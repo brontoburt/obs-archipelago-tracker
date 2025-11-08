@@ -42,5 +42,19 @@ this is where you import the scene collection in OBS
 
 and this is where you import the deck in SAMMI
 
+you can also drag and drop the json file for the SAMMI deck into SAMMI directly, and it will work just the same
+
 ## the final steps
-- once you have your scene in OBS and your deck in SAMMI, all you need to do is connect your slot through the SAMMIpelago extension on the SAMMI bridge, and everything should be handled just fine
+- once you have your scene in OBS and your deck in SAMMI, all you need to do is connect to your slot through the SAMMIpelago extension on the SAMMI bridge
+
+<img width="303" height="291" alt="image" src="https://github.com/user-attachments/assets/3daf4689-de57-4b52-b7d8-89e415272c54" />
+
+in the SAMMI bridge, click the SAMMIpelago tab
+
+<img width="294" height="286" alt="image" src="https://github.com/user-attachments/assets/d3c3bfe4-4114-4d29-aa00-205d81dc5b58" />
+
+put in your information for your slot in the Archipelago room
+
+<img width="272" height="81" alt="image" src="https://github.com/user-attachments/assets/bb5f7271-9bfb-4ba2-9f46-bb1769b31a1d" />
+
+click connect, and everything should hopefully not break :D
