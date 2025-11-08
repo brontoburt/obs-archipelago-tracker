@@ -64,3 +64,5 @@ click connect, and everything should hopefully not break :D
 this is what your tracker widget should look like!
 
 you will need to set the path for the archipelago image when you import the scene into OBS, you can use the one included in the repo, or whatever image you feel like using
+
+just know that the widget was made with the archipelago image in mind, so other images may need to be rescaled to fit properly
