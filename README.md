@@ -58,3 +58,7 @@ put in your information for your slot in the Archipelago room
 <img width="272" height="81" alt="image" src="https://github.com/user-attachments/assets/bb5f7271-9bfb-4ba2-9f46-bb1769b31a1d" />
 
 click connect, and everything should hopefully not break :D
+
+<img width="272" height="394" alt="image" src="https://github.com/user-attachments/assets/eadeecc2-364d-4878-be90-eb43684beef1" />
+
+this is what your tracker widget should look like!
