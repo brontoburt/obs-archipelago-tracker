@@ -31,7 +31,7 @@ and add a new dock, the name for the dock will go in an empty space on the left,
 from the same context menu for the bridge in SAMMI, click "Install an Extension" and navigate to where you saved the release for SAMMIpelago
 
 ## download the "archi_tracker.json" and "archi tracker button.json" files, the first file is meant to be imported into obs as a scene collection
--   it is **highly** recommended to download the [source copy](https://obsproject.com/forum/resources/source-copy.1261/) plugin for OBS to make the process of importing this scene into your currently existing scene much simpler
+-   it is **highly** recommended to download the [source copy](https://obsproject.com/forum/resources/source-copy.1261/) plugin for OBS to make the process of importing this scene into your currently existing scene collection much simpler
 -   the second file is meant to be imported into SAMMI as a new deck, you can do so by copying the text of the file and pasting the deck into SAMMI
 
   <img width="191" height="211" alt="image" src="https://github.com/user-attachments/assets/29fe8570-46de-4cea-bd82-e2e13112cbea" />
