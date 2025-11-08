@@ -44,6 +44,10 @@ and this is where you import the deck in SAMMI
 
 you can also drag and drop the json file for the SAMMI deck into SAMMI directly, and it will work just the same
 
+## DO NOT CHANGE ANY SOURCE NAMES FROM THE IMPORTED SCENE UNLESS YOU KNOW WHAT YOU ARE DOING
+
+if you do not update the names in ***both*** OBS and the SAMMI deck, things ***will*** break
+
 ## the final steps
 - once you have your scene in OBS and your deck in SAMMI, all you need to do is connect to your slot through the SAMMIpelago extension on the SAMMI bridge
 
